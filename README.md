@@ -35,7 +35,7 @@ Launch the index.html file in your preferred web browser.
 
 2. Enter the desired text you want to convert to speech in the input field.
 
-3. Click the "Convert to Speech" button to initiate the text-to-speech conversion.
+3. Click the "Listen" button to initiate the text-to-speech conversion.
 
 4. Adjust the volume or rate controls as needed.
 
@@ -54,7 +54,9 @@ Contributions to the project are welcome! If you have ideas for improvements, bu
 # Acknowledgments
 Special thanks to the contributors and the open-source community for their support and feedback.
 
-# Happy coding! 🚀
+Happy coding! 🚀
+
+Website looks like this:
 
 
 ![image](https://github.com/tanushreedour/Text-to-Speech-Converter-in-JavaScript/assets/147717390/a9d6d597-d3e4-4194-ab6d-09e26058086d)
