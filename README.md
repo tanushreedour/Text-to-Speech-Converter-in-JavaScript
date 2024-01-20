@@ -18,11 +18,11 @@ Web browser (Chrome, Firefox, Safari, etc.)
 # Installation
 Clone the repository to your local machine:
 Copy code
-# git clone https://github.com/your-username/text-to-speech-converter.git
+git clone https://github.com/your-username/text-to-speech-converter.git
 Open the project folder:
 
 Copy code
-# cd text-to-speech-converter
+cd text-to-speech-converter
 Launch the index.html file in your preferred web browser.
 
 # Usage
